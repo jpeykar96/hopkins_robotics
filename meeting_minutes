@@ -1,0 +1,33 @@
+************************
+* 10/15/15 3:00-4:00PM *
+************************
+
+-   Jordan brought up the idea of using Ghost or wordpress for the website if we want to keep it simple and have very basic functionality.
+
+-   Deciding what javascript framework to use: Leaning towards meteor.js if we can get MongoDB database
+    Otherwise we want to use Node.js or find another java script framework.
+
+-   Splitting the responsibilities: Jordan will do backend/frontend, Jason will do frontend.
+
+-   Components of website:
+    
+    Each page will have a tab: Home | current projects | events | email registration (add yourself to mailing list) | Gallery (?)
+    Or a menu containing all these items. 
+
+    Homepage will be *pretty*. We're thinking a bootstrap style, vertically rolling page that highlights things about the robotics club. 
+
+    The current projects page will have a list of all the projects members are working on. There will be a link to the project leader, the members of the project,
+    description, and some pictures if they have a prototype. The projects will be split between current and complete.
+
+    Events lists all the events the robotics club is having along with the weekly meeting times. Although the meeting times should be on the home page as well.
+
+    Email registration will let interested members add themselves to the mailing list. 
+
+    A gallery is just for fun
+
+-   ToDo:
+    Decide what frameworks to use.
+    Set up our working environments. 
+    Learn the frameworks/languages we will use
+    Make a prototype
+
