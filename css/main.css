@@ -3,7 +3,6 @@ body {
   background: #e5e5e5;
   color: #999;
 }
-h1,
 h2,
 h3,
 h4,
@@ -11,6 +10,12 @@ h5,
 h6 {
   color: #777;
   font-weight: 300;
+}
+h1 {
+  color: #68ACE5;
+  font-weight: 300;
+  font-size: 100pt;
+  font-family: Georgia, serif;
 }
 a {
   color: #52b6ec;
@@ -51,7 +56,7 @@ a:focus {
 
 
 #main {
-  background-image: url(../images/slider-bg.jpg);
+  /*background-image: url(../images/slider-bg.jpg);*/
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
