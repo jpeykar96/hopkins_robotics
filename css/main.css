@@ -56,7 +56,7 @@ a:focus {
 
 
 #main {
-  /*background-image: url(../images/slider-bg.jpg);*/
+  /*background-image: url(../images/robotic-31136_960_720.png);*/
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
@@ -336,28 +336,28 @@ a:focus {
 .carousel.scale .right-arrow {
   right: -10px;
 }
-.carousel.scale .active .row > div:nth-child(1) {
+.carousel.scale .active .row > div:nth-child(0) {
   -webkit-animation: scaleUp 200ms linear 0 both;
   -moz-animation: scaleUp 200ms linear 0 both;
   -ms-animation: scaleUp 200ms linear 0 both;
   -o-animation: scaleUp 200ms linear 0 both;
   animation: scaleUp 200ms linear 0 both;
 }
-.carousel.scale .active .row > div:nth-child(2) {
+.carousel.scale .active .row > div:nth-child(1) {
   -webkit-animation: scaleUp 200ms linear 100ms both;
   -moz-animation: scaleUp 200ms linear 100ms both;
   -ms-animation: scaleUp 200ms linear 100ms both;
   -o-animation: scaleUp 200ms linear 100ms both;
   animation: scaleUp 200ms linear 100ms both;
 }
-.carousel.scale .active .row > div:nth-child(3) {
+.carousel.scale .active .row > div:nth-child(2) {
   -webkit-animation: scaleUp 200ms linear 200ms both;
   -moz-animation: scaleUp 200ms linear 200ms both;
   -ms-animation: scaleUp 200ms linear 200ms both;
   -o-animation: scaleUp 200ms linear 200ms both;
   animation: scaleUp 200ms linear 200ms both;
 }
-.carousel.scale .active .row > div:nth-child(4) {
+.carousel.scale .active .row > div:nth-child(3) {
   -webkit-animation: scaleUp 200ms linear 400ms both;
   -moz-animation: scaleUp 200ms linear 400ms both;
   -ms-animation: scaleUp 200ms linear 400ms both;
@@ -432,7 +432,7 @@ a:focus {
   margin-left: 20px;
   width: 200px;
   height: 78px;
-  background: url(../images/logo.png) no-repeat 0 50%;
+  background: url(../images/rsz_universitylogosmallhorizontalblue.png) no-repeat 0 50%;
 }
 .navbar-default .navbar-nav > li {
   margin-left: 1px;

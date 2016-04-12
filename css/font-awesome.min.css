@@ -383,9 +383,9 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-long-arrow-up:before{content:"\f176";}
 .icon-long-arrow-left:before{content:"\f177";}
 .icon-long-arrow-right:before{content:"\f178";}
-.icon-apple:before{content:"\f179";}
+/*.icon-apple:before{content:"\f179";}
 .icon-windows:before{content:"\f17a";}
-.icon-android:before{content:"\f17b";}
+.icon-android:before{content:"\f17b";}*/
 .icon-linux:before{content:"\f17c";}
 .icon-dribbble:before{content:"\f17d";}
 .icon-skype:before{content:"\f17e";}
