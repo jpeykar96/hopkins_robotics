@@ -56,10 +56,10 @@ a:focus {
 
 
 #main {
-  /*background-image: url(../images/robotic-31136_960_720.png);*/
+  background-image: url(../images/logo.jpg);
   background-attachment: fixed;
-  background-size: cover;
-  background-position: 50% 50%;
+  background-size: 69%;
+  background-position: 50% 60%;
   background-repeat: no-repeat;
   padding: 200px 0;
 }
