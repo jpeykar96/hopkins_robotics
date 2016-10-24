@@ -61,7 +61,7 @@ a:focus {
   background-size: 69%;
   background-position: 50% 60%;
   background-repeat: no-repeat;
-  padding: 200px 0;
+  padding: 20% 0;
 }
 
 #main-content {
@@ -71,6 +71,9 @@ a:focus {
   font-weight: 700;
 }
 
+.About {
+    font-size: 20px;
+}
 
 
 
